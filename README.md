@@ -7,6 +7,8 @@ https://github.com/xiaohuangniu/26
 
 https://book.douban.com/subject/2334288/
 
+https://www.topgoer.cn/docs/golang-design-pattern/FactorMethod  golang-design-pattern
+
 
 ## 目录
 
