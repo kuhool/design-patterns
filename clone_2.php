@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Class Company
+ * Desc: 设计模式之原型模式
+ * 拷贝了原来的对象的参数，再这个基础上有部分修复后调整
+ * Author: hunianshun
+ * DateTime: 2023/6/5 10:26
+ */
 class Company
 {
     private $company;
