@@ -1,7 +1,9 @@
 # design-patterns
 
 相关参考资源：
-https://github.com/flyingalex/design-patterns-by-php/tree/master
+https://blog.csdn.net/weixin_51466332/category_11666809.html
+
+https://github.com/flyingalex/design-patterns-by-php/tree/master                
 
 https://github.com/xiaohuangniu/26
 
