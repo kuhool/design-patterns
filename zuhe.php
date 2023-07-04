@@ -1,13 +1,11 @@
 <?php
 /**
  * 设计模式-组合模式
- *
+ * 表示类的树状接口，使用菜单或城市等级
  */
 
 /** 抽象一个总组合器类
-
  *  abstract IComposite
-
  */
 
 abstract Class IComposite
